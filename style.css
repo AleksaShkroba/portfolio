@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+
+section {
+    color: red;
+    background-color: aqua;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px red;
+}
