@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+
+.elon_musk {
+    border-radius: 10px;
+}
+
+.link-header {
+    background-color: red;
+    font-size: 50px;
+}
